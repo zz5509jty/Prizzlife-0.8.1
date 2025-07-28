@@ -1,8 +1,3 @@
---// PRIZZLIFE, Fix by H17S3 and Riotscripter
---// refined and made more readable by ephemeral8997
---// They Had Ip Loggers and grabbify links but we removed em :)
---// This script is skidded from wrath admin tiger admin and my script chaos admin and local players script
-
 Execution_Runtime = tick()
 PLadmin_Settings = {
     DefaultPrefix = "?",
